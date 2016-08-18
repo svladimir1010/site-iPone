@@ -5,7 +5,7 @@ html{
 body {
 	margin: 0;
 	font-family:Helvetica;
-	background:#141b23;
+	background:#280102;
 }
 .layout-positioner {
 	width: 1000px;
